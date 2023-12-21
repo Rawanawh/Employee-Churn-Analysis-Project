@@ -8,6 +8,19 @@ Severance Pay
 Loss of productivity
 Time taken to train new recruit
 
+## Content
+
+[Code](https://github.com/Rawanawh/Employee-Churn-Analysis-Project/blob/main/src/Churn_Prediction_V6.ipynb)
+
+[Dataset](https://github.com/Rawanawh/Employee-Churn-Analysis-Project/blob/main/HR_Dataset.csv)
+
+[Output](https://github.com/Rawanawh/Employee-Churn-Analysis-Project/tree/main/output)
+
+[Streamlit App](https://github.com/Rawanawh/Employee-Churn-Analysis-Project/blob/main/main.py)
+
+[Requierments file](https://github.com/Rawanawh/Employee-Churn-Analysis-Project/blob/main/requirement.txt)
+
+
 ## Cluster Analysis Result Using K-Means Clustering
 
 ![sat_level](https://github.com/Rawanawh/Employee-Churn-Analysis-Project/assets/90554711/576a8735-9133-464f-84f3-d4477271b190)
@@ -20,5 +33,6 @@ Time taken to train new recruit
 ![bestModel](https://github.com/Rawanawh/Employee-Churn-Analysis-Project/assets/90554711/d5032253-8c3a-4a05-83d5-92a4886a5b8d)
 
 Best model is XGBoost!
+
 ###### This project is part of ML Bootcamp provided by [clarusway](https://github.com/clarusway)
 
